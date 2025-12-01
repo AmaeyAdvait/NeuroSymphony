@@ -1,3 +1,3 @@
 # NeuroSymphony
 
-This is an implementation of "Models of the brain" in Brian2. The primary aim of this porject is to design a heterogenous neuron spike train by synaptically coupling different neuron models.
+This is an implementation of "Models of the brain" in Brian2. The primary aim of this porject is to design a multifarious neuron spike train by synaptically coupling different neuron models.
